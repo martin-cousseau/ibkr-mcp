@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ibkr-mcp",
+  "version": "0.1.0",
+  "description": "Read-only Interactive Brokers official remote MCP (positions, NAV, cash). OAuth is client-managed; request mcp.read only.",
+  "author": {
+    "name": "Martin"
+  },
+  "homepage": "https://www.interactivebrokers.com/en/trading/ai-integrations.php",
+  "keywords": [
+    "ibkr",
+    "interactive-brokers",
+    "mcp",
+    "portfolio"
+  ],
+  "repository": "https://github.com/TheRealM4rtin/ibkr-mcp",
+  "license": "MIT"
+}
