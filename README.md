@@ -1,3 +1,7 @@
+# grok bot template 
+
+incoming
+
 # ibkr-mcp
 
 Read-only Cursor / Agent Plugin wrapper around Interactive Brokers' **official remote MCP**.
